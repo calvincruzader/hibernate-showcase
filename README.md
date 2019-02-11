@@ -2,9 +2,9 @@
 
 This is a showcase of some Hibernate stuff.
 
-You'll need MySQL with `hb_student_tracker` and `hb_employee_tracker` dbs created with:
+You'll need MySQL with `hb_student_tracker` and `hb_employee_tracker` dbs created with credentials:
 
-username: hbstudent
-password: hbstudent
+- username: hbstudent
+- password: hbstudent
 
 
