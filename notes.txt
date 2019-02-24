@@ -19,3 +19,4 @@ OR, you can update them via .createQuery() in the database itself
 
 db operation: CASCADE 
 deletes an entry and it's entries in foreign keys, DEPENDS ON USE CASE (don't want to delete course if a student is deleted)
+-----
